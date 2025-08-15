@@ -1,10 +1,13 @@
 # 🎮 Tic Tac Toe Game
 
-A responsive two-player game built with vanilla JavaScript featuring win detection and score tracking.
+A responsive two-player game built with vanilla JavaScript featuring win detection.
 
 
 <img width="1882" height="879" alt="Screenshot 2025-08-15 143124" src="https://github.com/user-attachments/assets/a2fc9517-1186-4426-809d-80bd472d9bed" />
-![tic tac toe mobile](https://github.com/user-attachments/assets/fc5c0e4b-8af7-4668-8a13-7fd0234a961e)
+
+![tic tac toe mobile](https://github.com/user-attachments/assets/80a0e247-03aa-4a71-ab7a-0784b00d0a6e)
+
+
 
 ## ✨ Features
 - **Interactive UI**: Clean, responsive interface
