@@ -2,8 +2,11 @@
 
 A responsive two-player game built with vanilla JavaScript featuring win detection.
 
+Desktop view-
 
 <img width="1882" height="879" alt="Screenshot 2025-08-15 143124" src="https://github.com/user-attachments/assets/a2fc9517-1186-4426-809d-80bd472d9bed" />
+
+Mobile view-
 
 ![tic tac toe mobile](https://github.com/user-attachments/assets/80a0e247-03aa-4a71-ab7a-0784b00d0a6e)
 
